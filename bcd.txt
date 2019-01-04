@@ -1,0 +1,5 @@
+Please execute command in your project repo
+git config credential.helper store
+After that push your repo at initial stage
+Your configuration will automatically save the user and password
+
